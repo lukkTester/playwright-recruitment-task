@@ -1,1 +1,1 @@
-# cypress-recruitment-task
+# playwright-recruitment-task
